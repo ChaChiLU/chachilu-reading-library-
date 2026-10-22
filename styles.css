@@ -5,3 +5,11 @@
 .cover-frame{background:radial-gradient(circle at 50% 30%,#fff9f5 0%,#f6dbe3 52%,#dcaebd 100%);border:9px solid white;}
 .ornate-art{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#98576d;border:2px solid rgba(166,99,120,.4);margin:13px;border-radius:160px 160px 4px 4px;padding:20px 8px;gap:12px;}
 .ornate-top{font-size:25px;letter-spacing:12px}.ornate-flower{font-size:100px;line-height:1;color:#c17c94;text-shadow:0 4px 15px #fff}.ornate-name{font:italic 37px Georgia,serif}.ornate-line{letter-spacing:9px}.ornate-bottom{font-size:9px;letter-spacing:2px}.cover-label{background:linear-gradient(transparent,rgba(105,49,75,.82));}
+
+/* Reader notices and chapter discussions */
+.repost-notice{margin:2rem 0;padding:1.1rem 1.3rem;border:1px solid #d8b3bf;border-left:4px solid #a76581;border-radius:12px;background:#fff5f7;color:#6d4054;font-family:Georgia,serif;line-height:1.7}
+.repost-notice strong{display:block;letter-spacing:.045em;margin-bottom:.35rem}
+.chapter-comments{margin:2.5rem 0 1rem;padding:1.4rem;border:1px solid #e5cfd5;border-radius:14px;background:#fffaf8}
+.chapter-comments h2{font:normal 1.55rem Georgia,serif;color:#70445a;margin:0 0 .5rem}
+.chapter-comments p{color:#705f67;line-height:1.6}
+.comments-setup{font-size:.95rem;background:#fff2f4;border-radius:8px;padding:.9rem 1rem}
