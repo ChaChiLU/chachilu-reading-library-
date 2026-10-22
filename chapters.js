@@ -1,4 +1,17 @@
-// Add more entries here when new chapter companion pages are ready.
+
 window.CHAPTERS = [
-  { number: 1, title: 'A Serpent in the Darkness', description: 'An investigation, an accusation, and a cold refusal.', tags: ['Gareth','Varkas','Talia','Ayla','investigation'], href: 'chapters/chapter-1.html', status: 'Read recap' }
+  {
+    number: 1,
+    title: 'Chapter 1',
+    description: 'An investigation, an accusation, and a cold refusal.',
+    tags: ['Gareth', 'Varkas', 'Talia', 'Ayla'],
+    href: 'chapters/chapter-1.html'
+  },
+  {
+    number: 2,
+    title: 'Chapter 2',
+    description: 'Talia prepares for the imperial banquet.',
+    tags: ['Talia', 'Senevia', 'Aila', 'banquet'],
+    href: 'chapters/chapter-2.html'
+  }
 ];
